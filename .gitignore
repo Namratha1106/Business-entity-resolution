@@ -1,0 +1,33 @@
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Dataset
+student_resource/dataset/
+
+# Generated outputs
+outputs/*
+
+# ML models
+*.pkl
+*.pickle
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+._*
+
+# Logs
+*.log
